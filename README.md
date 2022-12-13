@@ -4,4 +4,4 @@
 (Because who doesn't like fast things 🏃)
 
 ## 🛠️ How to use?
-Append `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/duyplus/fontawesome-pro/css/all.min.css" />`to your `<head>` element in your HTML.
+Append `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ItsFoxDev/fa-turbo/css/all.min.css" />`to your `<head>` element in your HTML.
